@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Pasión bajo el sol |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-bajo-el-sol/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [Commercial Licensing for Pasión bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-bajo-el-sol/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Baby, esta noche la luna nos llama, no te hagas la fría
-> Esa mirada me dice que tú quieres ser solo mía
-> Con tu flow de Madrid, mami, rompes la discoteca
-> Vente conmigo al VIP, que la noche apenas empieza
+> Bajo el sol tu piel me llama
+> Noche entera sin pausa, sin cama
+> Tus caderas en llamas, yeah
+> Pasión que no se apaga, no se acaba
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
