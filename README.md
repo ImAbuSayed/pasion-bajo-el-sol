@@ -15,7 +15,7 @@
 | **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-bajo-el-sol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Pasión bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-bajo-el-sol/) |
+| **Get License** | [Secure Licensing Rights for Pasión bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-bajo-el-sol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/4025)
+- [Telegram](https://t.me/AbuSayedMusic/4046)
 
 ---
 
