@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión bajo el sol
+
+This log tracks the cryptographic history and versioning for the song **Pasión bajo el sol** (pasion-bajo-el-sol).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T06:19:17.651765 | `v1` | `b49f578c7ce4b725149a1799262b93605e032e9c51763a07ad436365a8f29868` | `66dbaaff8177db82996bafbb119174948ea0fa5fbab1a4d6ffb1035a7b39f39f` | `2026-06-22_pasion-bajo-el-sol-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

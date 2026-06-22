@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-bajo-el-sol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-bajo-el-sol/) |
+| **Get License** | [Request Licensing for Pasión bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-bajo-el-sol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b49f578c7ce4b725149a1799262b93605e032e9c51763a07ad436365a8f29868` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
