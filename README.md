@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-bajo-el-sol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Pasión bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-bajo-el-sol/) |
+| **Get License** | [Commercial Licensing for Pasión bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-bajo-el-sol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la luna nos llama, no te hagas la fría
+> Esa mirada me dice que tú quieres ser solo mía
+> Con tu flow de Madrid, mami, rompes la discoteca
+> Vente conmigo al VIP, que la noche apenas empieza
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
