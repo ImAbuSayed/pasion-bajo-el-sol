@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Pasión 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T06:19:17.651765 | `v1` | `b49f578c7ce4b725149a1799262b93605e032e9c51763a07ad436365a8f29868` | `66dbaaff8177db82996bafbb119174948ea0fa5fbab1a4d6ffb1035a7b39f39f` | `2026-06-22_pasion-bajo-el-sol-v1.txt` |
+| 2026-06-22T07:15:14.479259 | `v2` | `745036923945bd05f434857694bdf4e088c23b8524bc83f6ebe49317ed431ba6` | `c7930819b7736ba8e7b6ec57f81cb844909c6cb54ad0ce6555a521108ba326a3` | `2026-06-22_pasion-bajo-el-sol-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
